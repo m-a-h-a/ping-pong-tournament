@@ -1,5 +1,5 @@
-import { addition } from './index.js';
+const addition = require('./index.js');
 
-SmokeTest('Check that tests are working', () => {
-    expect(2 + 2).toBe(4);
+test('Check that tests are working', () => {
+    expect(addition(2, 2)).toBe(4);
 });
