@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/m-a-h-a/ping-pong-tournament/issues"
+  },
+  "description": "ada ping pong tournament",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ping-pong-tournament",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-a-h-a/ping-pong-tournament.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "1.0.0"
+}
